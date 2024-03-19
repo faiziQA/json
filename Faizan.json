@@ -1,0 +1,16 @@
+{
+  "name": "Faizan Qaisar",
+  "age": 20,
+  "email": "faizanqaisar91@gmail.com",
+  "address": {
+    "street": "123 Main St",
+    "city": "RAHIM YAR KHAN",
+    "zipcode": "64200"
+  },
+  "languages": ["Java", "Python", "JavaScript"],
+  "is_student": false,
+  "hobbies": [
+    {"name": "Reading", "type": "Indoor"},
+    {"name": "Hiking", "type": "Outdoor"}
+  ]
+}
